@@ -1,24 +1,24 @@
 # Dual Voltage Selector
 
-![](./01.jpg)
+![](./assets/01.jpg)
 
-![](./02.jpg)
+![](./assets/02.jpg)
 
-![](./03.jpg)
+![](./assets/03.jpg)
 
-![](./04.jpg)
+![](./assets/04.jpg)
 
-![](./05.jpg)
+![](./assets/05.jpg)
 
-![](./06.jpg)
+![](./assets/06.jpg)
 
-![](./07.jpg)
+![](./assets/07.jpg)
 
-![](./10.jpg)
+![](./assets/10.jpg)
 
-![](./11.jpg)
+![](./assets/11.jpg)
 
-![](./12.png)
+![](./assets/12.png)
 
 performance ref: https://youtu.be/zATNgde9VzU?si=H2_rsMa0ExHrCztm
 
